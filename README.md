@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Siddesh Raut
 
-### Software Engineer | Backend Developer | AI/ML Engineer | Generative AI
+### Software Engineer | AI/ML Engineer | Backend Developer | Generative AI
 
 I'm a Computer Engineering graduate focused on building **scalable backend systems, AI-powered applications, and full-stack products**.
 
